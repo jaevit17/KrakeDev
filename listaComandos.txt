@@ -1,0 +1,1 @@
+git clone: <Genera una clonacion de nuestro repositorio creado en GitHub, en un directorio local es decir en nuestra PC>
