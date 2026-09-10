@@ -1,1 +1,3 @@
 git clone: <Genera una clonacion de nuestro repositorio creado en GitHub, en un directorio local es decir en nuestra PC>
+
+git commit: <Describe en una oracion el cambio realizado en el archivo, crea un Id unico mostrando el cambio hecho en cada version del archivo>
