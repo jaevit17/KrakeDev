@@ -1,3 +1,7 @@
 git clone: <Genera una clonacion de nuestro repositorio creado en GitHub, en un directorio local es decir en nuestra PC>
 
 git commit: <Describe en una oracion el cambio realizado en el archivo, crea un Id unico mostrando el cambio hecho en cada version del archivo>
+
+git push: <Sube los archivos listos despues del Commit al Repositorio Remoto(Git Hub)>
+git status: <Nos muestra el estado real de los cambios realizados en dentro de nuestros archivos>
+git add: <Ayuda a que archivos pasen de un estado untracked(otros usuarios no podran ver) a un estado staging area(que puedan ser tomados en cuenta por Git para compartir a otros usuarios)>
