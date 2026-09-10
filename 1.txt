@@ -1,3 +1,4 @@
 Nombre: Josue Vilcacundo
-Edad: 24
 Hobby: Tocar Guitarra Electrica
+Pelicula favorita: Jose
+Comida favorita: Tallarin con carne
